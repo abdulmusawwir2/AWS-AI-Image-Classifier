@@ -418,3 +418,8 @@ This project helped in understanding:
 # Resume Description
 
 Developed a serverless AI-powered image classification system using AWS Lambda, Amazon S3, API Gateway, Rekognition, and DynamoDB. Implemented event-driven arc
+
+
+#Services used 
+<img width="1536" height="1024" alt="ChatGPT Image May 10, 2026, 09_59_39 PM" src="https://github.com/user-attachments/assets/fb119d8d-d144-431e-b622-3bd06812d4ef" />
+
